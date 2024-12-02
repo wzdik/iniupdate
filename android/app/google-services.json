@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738411522801",
+    "project_id": "kedelai-hub",
+    "storage_bucket": "kedelai-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738411522801:android:6afd122bbeca24e1af9750",
+        "android_client_info": {
+          "package_name": "umm.kedelai_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIFE3UCt0ouHnMpHg5NxCRDNK05G1b2VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
